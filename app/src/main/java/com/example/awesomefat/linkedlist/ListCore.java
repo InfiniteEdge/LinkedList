@@ -13,4 +13,5 @@ public class ListCore
     public static LinkedList ll;
     public static AppCompatActivity mainActivity;
     public static EditText newValueEditText;
+    public static EditText newValueEditText2;
 }

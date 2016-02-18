@@ -88,6 +88,7 @@ public class Node
         }
     }
 
+
     public String getPayload()
     {
         return payload;
